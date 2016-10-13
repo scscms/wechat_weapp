@@ -108,4 +108,8 @@
 - [小程序Redux绑定库(charleyw/wechat-weapp-redux)](https://github.com/charleyw/wechat-weapp-redux)
 - [微信小程序版微信(18380435477/WeApp)](https://github.com/18380435477/WeApp)
 
-![image](https://github.com/scscms/wechatWeapp/raw/master/wx-small.png)
+## 项目demo
+- [官方demo](./demo/)
+- [豆瓣图书demo](./DouBanBookApp/)
+
+![image](https://github.com/scscms/wechat_Weapp/raw/master/wx-small.png)
