@@ -111,5 +111,6 @@
 ## 项目demo
 - [官方demo](./demo/)
 - [豆瓣图书demo](./DouBanBookApp/)
+- [知乎日报demo](./zhihudaily/) 经过修改能正常显示内容详情
 
 ![image](https://github.com/scscms/wechat_Weapp/raw/master/wx-small.png)
